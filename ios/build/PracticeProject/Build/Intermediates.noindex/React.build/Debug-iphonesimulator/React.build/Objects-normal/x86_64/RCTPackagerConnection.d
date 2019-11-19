@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/ios/build/PracticeProject/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/ios/build/PracticeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/ios/build/PracticeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/ios/build/PracticeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

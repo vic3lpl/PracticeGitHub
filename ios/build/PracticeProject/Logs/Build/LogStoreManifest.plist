@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1CDF06BD-678A-49C2-8561-709BA4D06717</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1CDF06BD-678A-49C2-8561-709BA4D06717.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PracticeProject with scheme PracticeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582708905.50941396</real>
+			<key>timeStoppedRecording</key>
+			<real>582708908.25863099</real>
+			<key>title</key>
+			<string>Building project PracticeProject with scheme PracticeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1CDF06BD-678A-49C2-8561-709BA4D06717</string>
+		</dict>
+		<key>351ACBE5-2AC5-4CDD-ADD8-28CB6FCD4967</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>351ACBE5-2AC5-4CDD-ADD8-28CB6FCD4967.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PracticeProject with scheme PracticeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>582520186.49501896</real>
+			<key>timeStoppedRecording</key>
+			<real>582520187.94784105</real>
+			<key>title</key>
+			<string>Building project PracticeProject with scheme PracticeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>351ACBE5-2AC5-4CDD-ADD8-28CB6FCD4967</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

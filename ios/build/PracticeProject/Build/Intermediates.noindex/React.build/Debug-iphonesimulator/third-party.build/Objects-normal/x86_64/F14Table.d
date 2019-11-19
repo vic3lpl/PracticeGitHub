@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/aizhi.lim/Documents/reactNative/PracticeProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
